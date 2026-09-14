@@ -1,12 +1,8 @@
 
-
+# 👨‍💻 About Me
 Welcome to my GitHub profile! I'm **Maryum**, a first-semester **BS Computer Science (BSCS)** student from **Batch 2026**, currently studying in **Section 1B**.
 
 I'm passionate about **coding, Artificial Intelligence, Large Language Models (LLMs), and exploring new technologies**. I've been learning and working with code for around **four years**, and I'm always interested in understanding how technology works and how I can build something useful with it.
-
----
-
-## 👨‍💻 About Me
 
 * 🎓 **Degree:** BS Computer Science
 * 📚 **Semester:** 1st Semester
@@ -18,6 +14,13 @@ I'm passionate about **coding, Artificial Intelligence, Large Language Models (L
 I started learning programming several years ago and have explored different programming languages and AI technologies along the way.
 
 ---
+### My Hobbies
+
+1. Content creation
+2. Yapping
+3. Crocheting
+
+***I believe creativity and technology can go hand in hand.***
 
 ## 💻 Programming Interests
 
